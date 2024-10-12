@@ -15,7 +15,7 @@ import {
 } from 'react-native';
 const { width, height } = Dimensions.get('screen');
 
-const API_KEY = "YxEOndcIjfPV2O32k42rwC6A1cmy9EUWYBAkYFwLwCGbExtg7qnuJcxy"
+const API_KEY = ""
 const API_URL = "https://api.pexels.com/v1/search?query=nature&orientation=portrait&size=small&per_page=20"
 const IMAGE_SIZE = 80;
 const SPACING = 10;
